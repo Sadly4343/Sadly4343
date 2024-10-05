@@ -1,16 +1,21 @@
 ## Hi there 👋
+Logan Hartshorn
 
-<!--
-**Sadly4343/Sadly4343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Logan, a student at Brigham Young University-Idaho interested in Computer Science, Data Science and using different softwares to develop code and programs. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+I'm currently learning C# and developing better applications through Javascript implementation in HTML and CSS
+My goals are to become a developer and create games!
+Ask me about coding programs that I have in my respository and completed.
+
+Proficient in: Python, C#, and HTML, CSS, Javascript
+
+Skills: Computer Programming and Developing Projects through accurate Python and C# to develop.
+
+
+Let's Connect!
+Here is my linkedin.com/in/logan-hartshorn-computer/
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
